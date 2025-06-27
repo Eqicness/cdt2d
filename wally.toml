@@ -3,8 +3,7 @@ name = "eqicness/cdt2d"
 description = "Luau translation of Mikola Lysenko's cdt2d JS library."
 version = "0.1.0"
 license = "MIT"
-authors = ["Mikola Lysenko", "Finn Ellis"]
+authors = ["Mikola Lysenko", "Finn Ellis <eqicdesign@gmail.com>"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
-
-[dependencies]
+repository = "https://github.com/Eqicness/cdt2d"
