@@ -1,7 +1,7 @@
 [package]
 name = "eqicness/cdt2d"
 description = "Luau translation of Mikola Lysenko's cdt2d JS library."
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 authors = ["Mikola Lysenko", "Finn Ellis <eqicdesign@gmail.com>"]
 registry = "https://github.com/UpliftGames/wally-index"

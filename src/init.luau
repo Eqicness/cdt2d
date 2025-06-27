@@ -28,7 +28,7 @@ local Types = require("@self/Types")
 export type Edge = Types.Edge
 export type Cell = Types.Cell
 export type Point = Types.Point
-export type Triangulation = Triangulation.Triangulation
+type Triangulation = Triangulation.Triangulation
 
 type CDTOptions = {
 	delaunay: boolean?,
